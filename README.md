@@ -36,4 +36,4 @@ We implement reasonable precautions and follow industry best practices in order 
 
 ### Support or Contact
 
-Having trouble with the ***facesnfortunes*** Bot? [contact support](email:guzogang@gmail.com) and we’ll help you sort it out.
+Having trouble with the ***facesnfortunes*** Bot? [contact support] email:guzogang@gmail.com and we’ll help you sort it out.
